@@ -4,11 +4,11 @@
                                                           |||
                                                            o
                                                      ooooooooooooo
-                                                    oooooooooooooo*
-                                                   oooooooooooooooo*
-                                                ooooooooooooooooooo*
-                                                 ooo*oooooooooooooo*
-                                                 oo*ooooooooooooooo*
+                                                    ooooooooooooooo
+                                                   ooooooooooooooooo
+                                                oooooooooooooooooooo*
+                                                 ooo*ooooooooooooooo*
+                                                 oo*oooooooooooooooo*
                                                  o*ooooo---oooo---oo*
                                                   *ooooo---oooo---oo*
                                                   **ooooooooooooooo*
