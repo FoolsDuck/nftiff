@@ -9,7 +9,7 @@
                                                 ooooooooooooooooooo*
                                                  ooo*oooooooooooooo*
                                                  oo*ooooooooooooooo*
-                                                 o*oooo---oooo---oo*
+                                                 o*ooooo---oooo---oo*
                                                   *ooooo---oooo---oo*
                                                   **ooooooooooooooo*
                                                    *ooooooooooooooo*
